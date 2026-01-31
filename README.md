@@ -1,6 +1,6 @@
 ***
 
-# LogicCompiler: A Mini-Prolog Implementation on the WAM
+# Prolog-Clone/LogicCompiler: A Mini-Prolog Implementation on the WAM
 
 ## Overview
 **LogicCompiler** is a fully functional compiler and runtime engine for a subset of the Prolog programming language. It is built from scratch in **Java** and implements the **Warren Abstract Machine (WAM)** architecture.
