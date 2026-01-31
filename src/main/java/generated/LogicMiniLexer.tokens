@@ -1,0 +1,15 @@
+COLON_DASH=1
+Q_MARK_DASH=2
+DOT=3
+COMMA=4
+LPAREN=5
+RPAREN=6
+VARIABLE=7
+ATOM=8
+WS=9
+':-'=1
+'?-'=2
+'.'=3
+','=4
+'('=5
+')'=6
